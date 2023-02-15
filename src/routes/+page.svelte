@@ -9,3 +9,4 @@
 <Button />
 
 <a href="/about">About</a>
+<a href="/login">Login</a>
