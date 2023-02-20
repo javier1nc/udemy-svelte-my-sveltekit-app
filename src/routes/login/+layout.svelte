@@ -1,4 +1,4 @@
-<div class="h-screen bg-cover bg-center  bg-[url('$lib/assets/bg-sise.png')]" h-14 bg-gradient-to-r from-cyan-500 to-blue-500>
+<div class="h-screen bg-cover bg-center  bg-[url('$lib/assets/bg-sise.png')]">
 <slot />
 <div class="flex justify-center">
     <footer>
